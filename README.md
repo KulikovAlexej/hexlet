@@ -1,2 +1,1 @@
-# hexlet
-git tutorial repo
+Hello, Hexlet! How are you?
